@@ -18,7 +18,8 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/OmzfCs3.gif)
+![]([README.md](https://github.com/A-Biswas2/Biswas-Prework/files/7080960/README.md)
+https://i.imgur.com/OmzfCs3.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
